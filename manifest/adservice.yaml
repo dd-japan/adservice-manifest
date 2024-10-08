@@ -51,7 +51,7 @@ spec:
               - all
           privileged: false
         #   readOnlyRootFilesystem: true
-        image: public.ecr.aws/b1o7r7e0/adservice:9e25e5c9221afc0eac07470af2af814a991646a8
+        image: public.ecr.aws/b1o7r7e0/adservice:057a96a796913e913de36ccbfcbb76157ccf5eb0
         ports:
         - containerPort: 9555
         env:
